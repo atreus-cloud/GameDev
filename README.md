@@ -25,7 +25,7 @@ Part 2: Car Escape
 
 # Tools and Technologies used
 
-Unity Hub
-Unity Version Control
-Asset Store
-C#
+1) Unity Hub,
+2) Unity Version Control,
+3) Asset Store,
+4) C#

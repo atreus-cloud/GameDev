@@ -29,3 +29,8 @@ Part 2: Car Escape
 2) Unity Version Control,
 3) Asset Store,
 4) C#
+
+# Download from this link, also includes a short gameplay demo video
+
+🔗 [Download game_dev_main.zip](https://drive.google.com/drive/folders/17SuLl6yMp95_YZ5NGbWK8Kxgrf3hYHAw)
+
